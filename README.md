@@ -17,7 +17,6 @@ Sou um desenvolvedor focado em **Back-end** e **Mobile**, apaixonado por criar s
 ### 💻 O que estou fazendo no momento
 
 *   📚 Aprofundando meus estudos em princípios de Orientação a Objetos em Java, arquitetura de software e integrações de banco de dados.
-*   🎯 Me preparando para oportunidades no mercado e estudando para concursos públicos na área de TI (como Senado e Forças Armadas).
 
 ### 📫 Como entrar em contato comigo
 
